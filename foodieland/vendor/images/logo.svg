@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100px"
+   width="100px"
+   fill=" #e3651d"
+   viewBox="0 0 48 33"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg861"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata867">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs865" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview863"
+     showgrid="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg861" />
+  <g
+     id="g1425">
+    <path
+       style="fill:#000080;opacity:0.719"
+       inkscape:connector-curvature="0"
+       id="path853"
+       d="M 0,20 A 12.99971,12.99971 0 0 0 13,33 H 35 A 13.00837,13.00837 0 0 0 48,20 Z" />
+    <path
+       style="opacity:0.71600001;fill:#000080"
+       inkscape:connector-curvature="0"
+       id="path855"
+       d="M 15.04,18.92 H 47 a 7.00558,7.00558 0 0 0 -7.02,-7 l -0.0052,2.4e-4 a 6.48409,6.48409 0 0 0 -9.37366,-5.31176 6.99118,6.99118 0 0 0 -13.20214,0 6.48409,6.48409 0 0 0 -9.37366,5.31176 L 8.02,11.92 a 7.00558,7.00558 0 0 0 -7.02,7 z" />
+    <text
+       id="text1414"
+       y="28.139568"
+       x="6.4182968"
+       style="font-style:normal;font-weight:normal;font-size:5.97573853px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.22409022"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#e6e6e6;stroke-width:0.22409022"
+         y="28.139568"
+         x="6.4182968"
+         id="tspan1412"
+         sodipodi:role="line">Foodieland</tspan></text>
+  </g>
+</svg>
