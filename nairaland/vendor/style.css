@@ -1,0 +1,140 @@
+body {
+  padding-top: 56px;
+}
+.search-form{
+  width:80%!important;
+}
+.navbar-brand{
+  font-family: "Open Sans";
+  font-weight:bold;
+  color:rgba(22, 85, 21, 1)!important;
+}
+.navbar{
+  background: #e8ece0!important;
+  padding: 0 18%!important;
+}
+.form-control{
+  border:0;
+}
+.smaller{
+  color:#232323;
+  font-weight:bold;
+  font-size:0.8rem;
+}
+.main-sections{
+  background: #05421d !important;
+  margin: 0 18%!important;
+}
+.active{
+  color:#e2eaf2 !important;
+background-color:#ffffff3d !important;
+}
+.nav-link{
+  color: #5e5a5a!important;
+}
+.main-menu{
+  color: #ccc!important;
+}
+#flex-nav{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #ffffff4f!important;
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+.page-link{
+  color:#5f6062 !important;
+  background-color:transparent!important;
+  border:0;
+}
+.page-link:hover{
+  color:#fff!important;
+  background-color:#1c75484f!important;
+  border:0;
+}
+.page-item:last-child .page-link {
+
+ border-radius:0!important;
+
+}
+.tab-content{
+  background-color: #e8ece0!important;
+}
+ .bottom{
+   font-size:0.75rem;
+ }
+ .bg-bottom{
+   background-color: rgba(22, 85, 21, 1);
+ }
+ .navbottom{
+  padding: 1%!important;
+  margin: 0 18% !important;
+
+}
+.birthday{
+  border-radius:30px;
+  background: #e8ece0!important;
+  border:0;
+  color:#333;
+  margin-bottom: 5px;
+  padding: 0 5px;
+}
+#news{
+  text-align: left!important;
+  margin: 0 18% !important;
+  
+}
+.card-footer{
+  padding: 0.25rem 1.25rem!important;
+  border-radius: 50px!important;
+  margin-bottom:5px;
+  background-color:#e8ece0!important;
+}
+.card{
+  border-radius:0;
+}
+.card-title{
+  font-size: 1.05rem;
+  font-weight:600;
+}
+.card-footer > a{
+ color:#05421d !important;
+ font-family: "Montserrat" !important;
+}
+
+/* MOBILE RESPONSIVENESS */
+@media only screen and (max-width: 810px) {
+  .card-title{
+    font-size: 0.8rem!important;
+    font-weight:500!important;
+    margin-bottom: 0!important;
+  }
+  #news, .main-sections,  .navbottom{
+    margin: 0 5% !important; 
+  }
+  .navbar {
+    padding: 0 5% !important;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .card-title {
+    font-size: 0.6rem!important;
+    font-weight: 500!important;
+  }
+  #flex-nav {
+    font-size: 0.6rem!important;
+    font-family: Montserrat;
+    font-weight: 600;
+  }
+  #myTab{
+    font-size: 0.9rem!important;
+  }
+  .birthday{
+    font-size:0.7rem;
+  }
+}
+
+
+
